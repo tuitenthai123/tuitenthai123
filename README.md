@@ -20,7 +20,7 @@
 
  </div>
 
- - 🎓 [HackerRank Certification in Nodejs](https://www.hackerrank.com/certificates/iframe/ea2b8b4f379d) - Completed on March 2024.
+ - 🎓 [HackerRank Certification in Nodejs](https://www.hackerrank.com/certificates/09bdc36116ca) - Completed on March 2024.
  - 🎓 [HackerRank Certification in SQL(basic)](https://www.hackerrank.com/certificates/ea2b8b4f379d) - Completed on March 2024.
  - 🎓 [HackerRank Certification in SQL(Intermediate)](https://www.hackerrank.com/certificates/63cebf5ac27a) - Completed on March 2024.
 
