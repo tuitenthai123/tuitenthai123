@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or something i know XD**
+💬 Ask me about **Node.js, React, Nextjs,.....**
 
 ⚡ Fun fact **We are a cat because we can meow**
 
