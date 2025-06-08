@@ -12,7 +12,7 @@
  
  🔭 I’m currently study on **School**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Vuejs**
 
 💬 Ask me about **Node.js, React, Nextjs,.....**
 
